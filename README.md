@@ -6,3 +6,5 @@ Day-1 --->Binary Search, Leetcode[88]
 Day-2 --->Insertion Sort, Leetcode[83]
 
 Day-3 --->Bubble Sort, Leetcode[206]
+
+Day-4 --->Selection Sort, Leetcode[11]
