@@ -8,3 +8,5 @@ Day-2 --->Insertion Sort, Leetcode[83]
 Day-3 --->Bubble Sort, Leetcode[206]
 
 Day-4 --->Selection Sort, Leetcode[11]
+
+Day-5 --->Merge Sort, Leetcode[26]
