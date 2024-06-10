@@ -10,3 +10,5 @@ Day-3 --->Bubble Sort, Leetcode[206]
 Day-4 --->Selection Sort, Leetcode[11]
 
 Day-5 --->Merge Sort, Leetcode[26]
+
+Day-6 --->Quick Sort, Leetcode[1051]
