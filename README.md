@@ -13,4 +13,6 @@ Day-5 --->Merge Sort, Leetcode[26]
 
 Day-6 --->Quick Sort, Leetcode[1051]
 
-Day-7 --->Counting sort, Leetcode[1122]
+Day-7 --->Counting Sort, Leetcode[1122]
+
+Day-8 --->Radix Sort, Leetcode[75]
