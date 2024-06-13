@@ -16,3 +16,5 @@ Day-6 --->Quick Sort, Leetcode[1051]
 Day-7 --->Counting Sort, Leetcode[1122]
 
 Day-8 --->Radix Sort, Leetcode[75]
+
+Day-9 --->Binary Search Tree Implementation, Leetcode[2037]
