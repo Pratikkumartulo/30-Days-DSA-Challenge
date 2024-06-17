@@ -1,0 +1,27 @@
+Deleting a node from a binary search tree involves several steps to ensure the tree maintains its properties after the deletion. Here’s a detailed breakdown of the code:
+
+Empty Tree Check:
+    The function first checks if the tree is empty by verifying if the value of the current node (self) is None. If the tree is empty, it prints a message and returns immediately.
+
+Traversal to Find the Node:
+    The function compares the node to be deleted with the value of the current node.
+    If the node value is greater than the current node’s value, it recursively calls the delete method on the right child (self.rchild).
+    If the node value is less than the current node’s value, it recursively calls the delete method on the left child (self.lchild).
+    If the node value matches the current node’s value, it means the node to be deleted has been found.
+
+Handling the Node Deletion:
+    Node with No Children (Leaf Node):
+    If the node to be deleted has no children, it simply deletes the node by setting it to None.
+    
+Node with One Child:
+    If the node to be deleted has only one child, it replaces the node with its child.
+    Specifically, if the node has no left child, it replaces the node with its right child. If the node has no right child, it replaces the node with its left child.
+
+Node with Two Children:
+    If the node to be deleted has two children, it needs to find the inorder predecessor (the maximum value in the left subtree).
+    The function traverses to the rightmost node in the left subtree to find the inorder predecessor.
+    It then replaces the value of the node to be deleted with the value of the inorder predecessor.
+    Finally, it recursively deletes the inorder predecessor.
+
+Return the Updated Node:
+    After handling the deletion, the function returns the updated node. This ensures that the parent nodes correctly update their references to the modified subtree.
