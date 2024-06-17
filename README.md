@@ -24,3 +24,5 @@ Day-10 --->Binary Tree-[Inorder,Preorder], Leetcode[945]
 Day-11 --->Binary Tree-[Postorder,Search Node], Leetcode[502]
 
 Day-12 --->Linear Search, Leetcode[58]
+
+Day-13 --->Binary Tree-[Deletion], Leetcode[633]
