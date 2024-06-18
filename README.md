@@ -26,3 +26,5 @@ Day-11 --->Binary Tree-[Postorder,Search Node], Leetcode[502]
 Day-12 --->Linear Search, Leetcode[58]
 
 Day-13 --->Binary Tree-[Deletion], Leetcode[633]
+
+Day-14 --->Heap-[heapq], Leetcode[826]
