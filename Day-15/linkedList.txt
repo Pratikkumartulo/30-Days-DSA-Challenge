@@ -1,0 +1,23 @@
+A singly linked list is a type of data structure that consists of a sequence of elements, where each element points to the next one. Here's
+
+Characteristics:
+Dynamic Size: The size of a linked list can grow or shrink dynamically. Unlike arrays, linked lists do not require a predefined size.
+
+Efficient Insertions/Deletions: Inserting or deleting elements is more efficient than arrays, especially at the beginning or middle, since it only requires updating pointers rather than shifting elements.\
+
+
+Node Class:
+The Node class is used to create the nodes of the linked list.
+Each node contains a value and a pointer (next) to the next node in the list.
+
+Global Head Pointer:
+head is a global pointer that points to the first node in the linked list. Initially, it should be set to None.
+
+Insertion at Beginning:
+The insertBeg function inserts a new node at the beginning of the list.
+
+Deletion from Beginning:
+The delBeg function removes the first node from the list.
+
+Traversal:
+The Traverse function prints all the values in the list from the head to the end.
