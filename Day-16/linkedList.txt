@@ -1,0 +1,20 @@
+This code implements a simple singly linked list with three main operations: 
+1)insertion at the end, 
+2)deletion of the last element, 
+3)and traversal of the list. 
+
+Node Class
+    Purpose: Represents a node in the linked list.
+    Attributes:
+        val: Stores the data value of the node.
+        next: Pointer to the next node in the list (initially set to None).
+
+insertEnd Function
+    Purpose: Inserts a new node with a specified value at the end of the list.
+
+delEnd Function
+    Purpose: Deletes the last node from the list.
+
+Traverse Function
+    Purpose: Traverses and prints the values of all nodes in the list.
+
