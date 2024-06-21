@@ -30,3 +30,5 @@ Day-13 --->Binary Tree-[Deletion], Leetcode[633]
 Day-14 --->Heap-[heapq], Leetcode[826]
 
 Day-15 --->Single Linked List-[InsertBeg,DelBeg,Traverse], Leetcode[1482]
+
+Day-16 --->Single Linked List-[InsertEnd,DelEnd,Traverse], Leetcode[1552]
