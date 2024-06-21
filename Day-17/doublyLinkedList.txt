@@ -1,0 +1,12 @@
+A doubly linked list is a type of linked list in which each node contains three fields:
+    Data Field: Contains the value or data stored in the node.
+    Next Pointer: A pointer/reference to the next node in the list.
+    Previous Pointer: A pointer/reference to the previous node in the list.
+
+Node Class: This class defines the structure of a node in a doubly linked list. Each node contains three attributes:
+    val: The value stored in the node.
+    next: A pointer to the next node in the list.
+    prev: A pointer to the previous node in the list.
+
+    
+And all the operations are same as the singly linked list, just we have to update the "prev" field of each Node
