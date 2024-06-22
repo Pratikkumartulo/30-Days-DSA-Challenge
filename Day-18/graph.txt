@@ -1,0 +1,22 @@
+GRAPHS :
+A graph is a collection of nodes (or vertices) and edges that connect pairs of nodes. Graphs can be used to represent various real-world problems, such as social networks, transportation networks, and web page links. There are two main types of graphs: directed and undirected. In a directed graph, edges have a direction, while in an undirected graph, edges do not have a direction.
+
+ADJENCY MATRIX :
+An adjacency matrix is a way to represent a graph using a 2D array. Each element in the matrix indicates whether there is an edge between the corresponding nodes. For an undirected graph, the matrix is symmetric.
+
+CODE EXPLANATION:
+Global Variables:
+    Nodes: A list to store the names of the nodes.
+    adMatrix: A 2D list (adjacency matrix) to represent the connections between nodes.
+    Node_count: A counter to keep track of the number of nodes.
+
+insertNode(val) Function:
+    This function adds a new node to the graph.
+    It first checks if the node is already present in the Nodes list. If it is, it prints a message indicating that the node is already present.
+    If the node is not present, it increments the Node_count, adds the node to the Nodes list, and updates the adMatrix to include the new node.
+    It appends a zero to each existing row in the adMatrix to accommodate the new node.
+    It adds a new row (with all elements set to zero) to the adMatrix for the new node.
+
+printMat(adMatrix) Function:
+    This function prints the adjacency matrix in a readable format.
+
