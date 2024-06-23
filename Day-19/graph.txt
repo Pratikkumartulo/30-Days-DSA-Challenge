@@ -1,0 +1,13 @@
+In this code, we have studied about how to add edge in a Graph Structure.
+
+add_Edge function:
+    First in the add_Edge function we check if the given Nodes are avaialable in the graph or not.
+    If present it proceed to further procesure and if not present, It stops there only
+    After finding the Nodes, It update the adjency Matrix 
+
+For weighted Graph:
+    for weighted graph, we also have to pass another argument that is the weight of the edge, in the add_Edge function.
+    And in the adjency matrix we have to save the weight in the correct position
+
+For directed Graph:
+        In directed graph, we only update the edge to "1" in the adjency matrix for the node where the edge is outgoing.
