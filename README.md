@@ -36,3 +36,5 @@ Day-16 --->Single Linked List-[InsertEnd,DelEnd,Traverse], Leetcode[1552]
 Day-17 --->Doubly Linked List-[InserBeg,InsertEnd,DelBeg,DelEnd,Traverse], Leetcode[1052]
 
 Day-18 --->Graph-[insert of Nodes], Leetcode[1248]
+
+Day-19 --->Graph-[insertion of Edge], Leetcode[1438]
