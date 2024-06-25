@@ -1,0 +1,28 @@
+Depth-First Search (DFS)
+    Depth-First Search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root (or an arbitrary node) and explores as far as possible along each branch before backtracking.
+
+Recursive DFS Function:
+    Parameters:
+        node: The starting node for the DFS traversal.
+        visited: A set to keep track of the visited nodes.
+        graph: The graph represented as an adjacency list (dictionary).
+
+    Function Description:
+        The function checks if the node is in the graph. If not, it prints a message and returns.
+        If the node has not been visited, it prints the node and adds it to the visited set.
+        The function then recursively calls itself for all the adjacent nodes (neighbors) of the current node.
+
+
+Iterative DFS Function:
+    Parameters:
+        node: The starting node for the DFS traversal.
+        graph: The graph represented as an adjacency list (dictionary).
+
+    Function Description:
+        The function initializes a set visited to keep track of visited nodes.
+        It checks if the node is in the graph. If not, it prints a message and returns.
+        It initializes a stack and pushes the starting node onto it.
+        While the stack is not empty:
+            It pops a node from the stack.
+            If the node has not been visited, it prints the node and adds it to the visited set.
+            It then pushes all the adjacent nodes (neighbors) of the current node onto the stack.
