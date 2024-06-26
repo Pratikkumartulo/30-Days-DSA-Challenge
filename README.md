@@ -40,3 +40,5 @@ Day-18 --->Graph-[insert of Nodes-Adjency Matrix], Leetcode[1248]
 Day-19 --->Graph-[insertion of Edge-Adjency Matrix], Leetcode[1438]
 
 Day-20 --->Graph-[insertion of Edge,insertion of Node-Adjency List], Leetcode[995]
+
+Day-21 --->Graph-[Traversal Recursive and Trversal using Stack DFS], Leetcode[1038]
