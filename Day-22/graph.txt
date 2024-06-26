@@ -1,0 +1,11 @@
+deleteNode Function :
+    1)Check Node Existence: Ensures the node to be deleted is in the graph.
+    2)Update Node Count: Decrements the total count of nodes.
+    3)Remove Node: Deletes the node from the list of nodes.
+    4)Update Adjacency Matrix: Removes the corresponding row and column from the adjacency matrix, effectively deleting the node  
+      and all its connections.
+
+deleteEdge Function :
+    1)Check Node Existence: Ensures both nodes involved in the edge exist in the graph.
+    2)Remove Edge: Updates the adjacency matrix to set the values corresponding to the edge to 0, removing the connection between the 
+      two nodes.
