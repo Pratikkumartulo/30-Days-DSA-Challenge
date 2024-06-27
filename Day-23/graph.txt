@@ -1,0 +1,17 @@
+delete_Node(node) Function:
+    Purpose: Deletes a node from the graph along with all its edges.
+    Steps:
+        Checks if the node is present in the graph.
+        If not, it prints a message indicating the node is not present.
+        If the node is present:
+        It removes the node from the graph.
+        It iterates through the remaining nodes in the graph to remove any edges that connect to the deleted node.
+
+delete_edge(v1, v2) Function
+    Purpose: Deletes an edge between two nodes in the graph.
+    Steps:
+        Checks if both nodes v1 and v2 are present in the graph.
+        If either node is not present, it prints a message indicating which node is missing.
+        If both nodes are present:
+        It removes v2 from the adjacency list of v1.
+        It removes v1 from the adjacency list of v2.
