@@ -1,0 +1,10 @@
+Breadth-First Search (BFS) Algorithm
+    Definition:
+        Breadth-First Search (BFS) is a graph traversal algorithm that starts at a given node and explores all neighboring nodes at the present depth before moving on to nodes at the next depth level.
+
+    How It Works:
+        Initialization: Start from the root (or any start node) and enqueue it.
+        Queue Usage: Use a queue to keep track of nodes to explore. Mark each node as visited when it is enqueued.
+        Traversal:
+        Dequeue a node from the queue, process it, and enqueue all its unvisited neighbors.
+        Repeat: Continue until the queue is empty.
