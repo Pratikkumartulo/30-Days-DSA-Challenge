@@ -1,0 +1,10 @@
+
+Trie Data Structure
+        Definition:
+            A Trie (pronounced "try") is a tree-like data structure used to store a dynamic set of strings, where the keys are usually strings. It is particularly efficient for searching prefixes and performing auto-completion.
+
+        Structure:
+            Nodes: Represent characters.
+            Root Node: Represents an empty string and serves as the starting point.
+            Edges: Connect nodes and correspond to characters in the strings.
+            End of Word Marker: Each node has a boolean flag indicating if it is the end of a valid word.
