@@ -48,3 +48,5 @@ Day-22 --->Graph-[Deleting Edge and Deleting Node (Adjency Matrix)], Leetcode[13
 Day-23 --->Graph-[Deleting Edge and Deleting Node (Adjency List)], Leetcode[1791]  https://leetcode.com/problems/find-center-of-star-graph
 
 Day-24 --->Graph-[Traversal of Graph using BFS], Leetcode[2285]  https://leetcode.com/problems/maximum-total-importance-of-roads
+
+Day-25 --->Trie-[Insertion], Leetcode[2192]  https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
