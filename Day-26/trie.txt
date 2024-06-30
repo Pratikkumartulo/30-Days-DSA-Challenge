@@ -1,0 +1,6 @@
+Traverse Method:
+    traverse() initializes an empty list words to store all words.
+    Calls _traverse_recursive with an empty prefix and the words list.
+_Traverse_Recursive Method:
+    _traverse_recursive(prefix, words) adds the current prefix to words if is_end_of_word is True.
+    Recursively visits all children, building up the prefix as it goes.
