@@ -50,3 +50,5 @@ Day-23 --->Graph-[Deleting Edge and Deleting Node (Adjency List)], Leetcode[1791
 Day-24 --->Graph-[Traversal of Graph using BFS], Leetcode[2285]  https://leetcode.com/problems/maximum-total-importance-of-roads
 
 Day-25 --->Trie-[Insertion], Leetcode[2192]  https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
+
+Day-26 --->Trie-[Traversal], Leetcode[1579]  https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
