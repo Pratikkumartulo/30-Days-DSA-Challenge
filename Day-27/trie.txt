@@ -1,0 +1,4 @@
+In the Search Algorithm of trie data structure, 
+    we have first assigned the current variable to the self, then we have traversed the
+    each letter of the word , And if we find any one letter of the word as missing the we 
+    will return False, And if we find each and every letter of the word , we will return True.
