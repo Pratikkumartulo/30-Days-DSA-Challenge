@@ -1,0 +1,9 @@
+Without PrefixSum:
+    here without prefix Sum array we have to traverse the array from the start point too the end point which basically takes more time
+    and also very small, So we have implemented the Prefix Sum array Idea.
+
+With PrefixSum array :
+            In prefixSum array we take the sum of each elements with all the elements previous of it and then build a prefix array.
+
+            If we want to get the result of sum of array from index i to j, then we can use the formula, 
+                Sum = arrayName[j]-arrayName[i-1]
