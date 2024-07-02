@@ -52,3 +52,5 @@ Day-24 --->Graph-[Traversal of Graph using BFS], Leetcode[2285]  https://leetcod
 Day-25 --->Trie-[Insertion], Leetcode[2192]  https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
 
 Day-26 --->Trie-[Traversal], Leetcode[1579]  https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
+
+Day-27 --->Trie-[Searching], Leetcode[1550]  https://leetcode.com/problems/three-consecutive-odds
