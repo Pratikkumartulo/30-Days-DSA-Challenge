@@ -54,3 +54,5 @@ Day-25 --->Trie-[Insertion], Leetcode[2192]  https://leetcode.com/problems/all-a
 Day-26 --->Trie-[Traversal], Leetcode[1579]  https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
 
 Day-27 --->Trie-[Searching], Leetcode[1550]  https://leetcode.com/problems/three-consecutive-odds
+
+Day-28 --->PrefixSum, Leetcode[350]  https://leetcode.com/problems/intersection-of-two-arrays-ii
