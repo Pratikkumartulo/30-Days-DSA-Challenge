@@ -1,0 +1,1 @@
+Kadane's Algorithm is used to find the maximum sum of a contiguous subarray in an array. It works by iterating through the array, maintaining the maximum sum of the subarray ending at each position, and updating the global maximum sum found so far. The algorithm runs in linear time, making it efficient for large arrays.
