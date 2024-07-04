@@ -56,3 +56,5 @@ Day-26 --->Trie-[Traversal], Leetcode[1579]  https://leetcode.com/problems/remov
 Day-27 --->Trie-[Searching], Leetcode[1550]  https://leetcode.com/problems/three-consecutive-odds
 
 Day-28 --->PrefixSum, Leetcode[350]  https://leetcode.com/problems/intersection-of-two-arrays-ii
+
+Day-29 --->Kadane's Algorithm, Leetcode[1509]  https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves  
