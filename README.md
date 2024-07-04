@@ -58,3 +58,5 @@ Day-27 --->Trie-[Searching], Leetcode[1550]  https://leetcode.com/problems/three
 Day-28 --->PrefixSum, Leetcode[350]  https://leetcode.com/problems/intersection-of-two-arrays-ii
 
 Day-29 --->Kadane's Algorithm, Leetcode[1509]  https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves  
+
+Day-30 --->Two-Sum Algorithm, Leetcode[2181]  https://leetcode.com/problems/merge-nodes-in-between-zeros/?envType=daily-question&envId=2024-07-04
