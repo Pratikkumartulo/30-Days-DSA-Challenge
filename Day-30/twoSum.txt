@@ -1,0 +1,9 @@
+The two_sum function solves the problem of finding two numbers in a sorted array that add up to a specified target. It uses a two-pointer approach:
+
+    Initialization: Set left pointer to the start and right pointer to the end of the array.
+    Loop:   Continue while left is less than right.
+            Calculate the sum of the elements at left and right.
+            If the sum equals the target, return the 1-based indices of left and right.
+            If the sum is less than the target, move the left pointer right to increase the sum.
+            If the sum is greater than the target, move the right pointer left to decrease the sum.
+    Return: If no such pair is found, return an empty list.
